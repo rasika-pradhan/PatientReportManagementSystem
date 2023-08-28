@@ -1,3 +1,3 @@
-# mySecondRepository
+# PatientReportManagementSystem
 Hello!
 Hi
